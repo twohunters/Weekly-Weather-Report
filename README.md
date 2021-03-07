@@ -2,7 +2,7 @@
 
 ## Description
 
-text
+This is a simple weather dashboard that you can use to track current and future weather conditions. When finished, it will display a given city with the current date, temperature, humidity, wind speed, UV Index, and an icon representing weather conditions. There will also be five cards that display the weather conditions, temperature, and humidity for the five following days. 
 
 https://github.com/twohunters/Weekly-Weather-Report
 
@@ -20,7 +20,7 @@ For further instructions, visit https://help.github.com.
 
 ## Usage
 
-text
+Enter the desired city name in the search box on the left of the page and the weather conditions will appear to the right. A list of previous searches will appear in a container below the search box.
 
 ![Deployed](assets/images/deployed.png)
 
@@ -28,6 +28,14 @@ text
 ## Credits
 
 https://github.com/twohunters
+
+https://momentjs.com/
+
+https://jquery.com/
+
+https://getbootstrap.com/
+
+https://fontawesome.com/
 
 
 ## License
